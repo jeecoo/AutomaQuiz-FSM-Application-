@@ -12,4 +12,4 @@
 
 **FA Design:**
 
-![Local Image](https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/image.jpg)
+![Local Image]([https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/image.jpg](https://github.com/jeecoo/AutomaQuiz-FSM-Application-/blob/main/FAdesign.png))
