@@ -12,4 +12,9 @@
 
 **FA Design:**
 
-![Local Image]([https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/image.jpg](https://github.com/jeecoo/AutomaQuiz-FSM-Application-/blob/main/FAdesign.png))
+![Local Image](https://github.com/jeecoo/AutomaQuiz-FSM-Application-/blob/main/FAdesign.png)
+
+
+**Sample Video of Program Execution:** https://drive.google.com/file/d/1UbhP1IrlVy18FJHgPGmyueMjpGY9w3NO/view?usp=sharing
+
+
